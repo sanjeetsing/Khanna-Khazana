@@ -1,0 +1,32 @@
+{
+  "name": "khanna-khazana",
+  "version": "1.0.0",
+  "description": "Its food ordering project by Sanjeet singh",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeetsing/Khanna-Khazana.git"
+  },
+  "author": "Sanjeet singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeetsing/Khanna-Khazana/issues"
+  },
+  "homepage": "https://github.com/sanjeetsing/Khanna-Khazana#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist":[
+    "last 2  version"
+  ]
+}
